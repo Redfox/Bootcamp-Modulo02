@@ -4,7 +4,7 @@
 
 ```bash
 # install packages
-yarn install or npm install
+yarn or npm install
 
 # run
 yarn dev or npm run dev
