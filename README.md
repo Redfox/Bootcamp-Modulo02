@@ -6,7 +6,7 @@
 # install packages
 yarn or npm install
 
-# run Qerver
+# run Server
 yarn dev or npm run dev
 
 # run Queue Job
