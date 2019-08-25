@@ -6,10 +6,11 @@
 # install packages
 yarn or npm install
 
-# run
+# run Qerver
 yarn dev or npm run dev
 
-port 3333 by default
+# run Queue Job
+yarn queue or npm run queue
 ```
 
 # Env Variables
